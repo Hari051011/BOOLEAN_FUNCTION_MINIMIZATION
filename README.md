@@ -50,11 +50,14 @@ endmodule
 
 **RTL realization**
 
-![image](https://github.com/user-attachments/assets/800c5420-d560-461c-9fdb-0aa0e8e878ad)
+![image](https://github.com/user-attachments/assets/89433ae2-7317-4202-b35b-90bfb7d264f1)
+
 
 **TRUTH TABLE**
 
+![image](https://github.com/user-attachments/assets/002ea23e-44a3-48ab-914b-dca44989e5e0)
 
+![image](https://github.com/user-attachments/assets/b9f1929b-1fef-4234-885b-ee6f39049e5c)
 
 
 
